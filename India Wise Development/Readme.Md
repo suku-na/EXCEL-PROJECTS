@@ -21,5 +21,5 @@ State-wise performance comparisons
 Using advanced Excel formulas, pivot tables, charts, and slicers, this project transforms raw data into actionable insights.
 
 📊 Dashboard Preview
-<p align="center"> <img src="/Users/Sumit Kumar/Desktop/Imarticus Learning/Projects/Excel/Sumit Excel Project/Dashboard.png" alt="India Wise Development Dashboard" width="700"/> </p>
+
 
